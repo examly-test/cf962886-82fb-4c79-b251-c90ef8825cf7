@@ -4,7 +4,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.houari</groupId>
-    <artifactId>examly-test_fc6143da-4e36-4399-9449-249a301a9988</artifactId>
+    <artifactId>examly-test_cf962886-82fb-4c79-b251-c90ef8825cf7</artifactId>
     <version>1.0-SNAPSHOT</version>
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
